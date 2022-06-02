@@ -51,5 +51,4 @@
 - `Fluxo inverso`: Depois que a solicitação foi aprovada, o conteúdo segue todo esse fluxo no sentido inverso até chegar ao usuário (tópico 1) que o solicitou. E tudo isso acontece em fração de segundo!  
 </details>
 
-
 ###### tags: `internet` `navegação`

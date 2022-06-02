@@ -1,6 +1,6 @@
 ![](./hd-header.png)
 
-### Front-End - Como a intenet Funciona e
+### Front-End - Como a intenet Funciona
 
 <details>
 <summary>1 - O que é a internet?</summary>
